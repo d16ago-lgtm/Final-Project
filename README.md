@@ -39,15 +39,15 @@ project/
 │   ├── xray2.png
 │   └── xray3.png
 │
-├── results/
-│   ├── history.csv
+
+|── history.csv
 │  
 │
 ├── pipeline.py
 ├── filters.py
 ├── runtime.py
 ├── metrics.py
-├── visualizations.py
+├── visualize.py
 ├── experiments.py
 ├── jit_experiments.py
 └── README.md
